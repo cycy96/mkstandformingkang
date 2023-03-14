@@ -1,1 +1,1 @@
-# mkstandformingkang.com
+https://cycy96.github.io/mkstandformingkang/

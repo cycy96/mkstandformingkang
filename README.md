@@ -1,1 +1,1 @@
-https://cycy96.github.io/mkstandformingkang/
+This is a simple photography website built using HTML and CSS.
